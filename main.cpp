@@ -229,9 +229,6 @@ int main()
     XEDAP dsxedap[100];
     XEMAY dsxemay[100];
     Menu(dsxedap, n, dsxemay, m);
-
-
-
-
+    //hhhhhhhhhhhhhhhhhhhhhhhhhhhhh
     
 }
